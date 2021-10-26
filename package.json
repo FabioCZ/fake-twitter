@@ -1,0 +1,14 @@
+{
+  "name": "faketwitter",
+  "version": "1.0.0",
+  "description": "Just learnin' js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Gottlicher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
